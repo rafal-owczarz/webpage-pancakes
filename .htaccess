@@ -1,0 +1,12 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule home index.html
+RewriteRule progress progress.html
+RewriteRule download download.html
+RewriteRule galery galery.html
+RewriteRule faq faq.html

@@ -1,0 +1,93 @@
+body
+{
+	background-color: #d3ffca;
+}
+
+#logowanie
+{
+	border-bottom: 3px solid #00bb27;
+}
+
+#headertext a
+{
+	color: #00bb27;
+}
+
+#headertext a:hover
+{
+	color: #00e22f;
+}
+
+input[type=submit]
+{
+	background-color: #00bb27;
+}
+
+input[type=submit]:hover
+{
+	background-color: #00e22f;
+}
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+	border: 2px solid #00bb27;
+	background-color: #d3ffca;
+	color: #00bb27;
+}
+
+input[type=submit]:focus
+{
+	background-color: #00e22f;
+}
+
+.nav
+{
+	background-color: #00bb27;
+}
+
+ol > li:hover
+{
+	background-color: #00e22f;
+}
+
+ol a:hover
+{
+	color: #adfaaf;
+}
+
+ol > li > ul > li
+{
+	background-color: #00e22f;
+}
+
+ol > li > ul > li:hover
+{
+	background-color: #00bb27;
+	color: 	#adfaaf;
+}
+
+h2
+{
+	color: #00bb27;
+}
+
+#socials
+{
+	background-color: #00bb27;
+}
+
+#skladniki
+{
+	background-color: #d3ffca;
+}
+
+h3
+{
+	color: #00bb27;
+}
+
+h4
+{
+	color: #00bb27;
+}
